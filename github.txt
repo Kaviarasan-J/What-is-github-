@@ -1,0 +1,9 @@
+What is Github?
+
+GitHub is a web-based platform that uses Git, a version control system, to help 
+developers manage and collaborate on software projects. It provides a user-friendly 
+interface for Git repositories, allowing users to store their code, track changes,
+ collaborate with others, and manage project workflows. GitHub also offers features 
+like issue tracking, project management tools, and a social networking aspect for 
+developers.
+
